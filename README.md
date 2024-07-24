@@ -60,7 +60,7 @@ You can randomly assign infrared intensity and polarized images for training and
 ```    
 
 ## Train & Test
-* After loading the data according to the above directory, the diffusion model is trained by 'ddpm_train.py'. After loading the pre-trained diffusion model, the road detection part is performed using 'ddpm_cd.py'.
+* After loading the data according to the above directory, the diffusion model is trained by 'ddpm_train.py'. The road detection part is performed using 'ddpm_cd.py' after loading the pre-trained diffusion model.
 
 We will add information about the paper later.
 
