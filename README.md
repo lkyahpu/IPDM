@@ -28,7 +28,6 @@ You can randomly assign infrared intensity and polarized images for training and
           |-- 090.png
           |-- 135.png
        |-- ....
-     
     |-- label
   |-- test
     |-- S0
