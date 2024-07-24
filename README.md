@@ -30,20 +30,6 @@ You can randomly assign infrared intensity and polarized images for training and
        |-- ....
      
     |-- label
-    
-  |-- val
-    |-- S0
-       |-- 0000.png
-       |-- ....
-    |-- dolp
-    |-- img
-       |-- 0000
-          |-- 000.png
-          |-- 045.png
-          |-- 090.png
-          |-- 135.png
-       |-- ....
-    |-- label
   |-- test
     |-- S0
        |-- 0000.png
